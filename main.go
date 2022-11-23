@@ -6,7 +6,7 @@ const (
 	CONN_HOST = "localhost"
 	CONN_PORT = "8000"
 	DRIVER_NAME = "mysql"
-	DATASOURCE_NAME = "root:G22mEyct140522FU@/moviesdb"
+	DATASOURCE_NAME = "root:password@/moviesdb"
 )
 
 type Route struct {
